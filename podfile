@@ -1,0 +1,18 @@
+platform :ios, '13.0'
+def shared_pods
+  use_frameworks!
+  pod 'SnapKit'
+  pod 'HandyText', :git => 'https://github.com/mmrmmlrr/HandyText', :branch => 'feature/v2'
+  pod 'NVActivityIndicatorView'
+  pod 'SDWebImage', '~> 5.0'
+  pod 'Amplitude', '~> 8.3'
+  pod 'Firebase/Analytics'
+  pod 'Firebase/Crashlytics'
+  pod 'ReachabilitySwift'
+  pod 'KeychainSwift', '~> 19.0'
+  pod 'Toast-Swift'
+end
+
+target 'TEST' do
+  shared_pods
+end

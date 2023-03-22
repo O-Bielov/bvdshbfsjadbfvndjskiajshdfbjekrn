@@ -1,0 +1,101 @@
+"general.action.cancel" = "Cancel";
+
+// Feed
+
+"feed.share_message_format" = "Just wanted to share with you this lovely app I’ve been using 🕊 %@";
+"feed.share_author_message_format" = "Take a look at a video of this author from %@: %@";
+"feed.screen_title" = "Trending";
+
+"feed_trailing.header" = "Come back tomorrow";
+"feed_trailing.message" = "Can't get enough? Return\ntomorrow for the best personal\nfinance content out there.";
+
+"feed_trailing.action.invite_friend" = "Invite a <b>friend</b>";
+
+
+// Sign in
+
+"sign_in.screen_title" = "<w>Sign in.</w>";
+"sign_in.waitlist_call_to_action" = "Not in waitlist yet? Request\na passcode by joining the waitlist.";
+"sign_in.email_field.placeholder" = "Enter your e-mail";
+"sign_in.action.join_waitlist" = "<b>Join</b> the waitlist";
+
+"passcode.screen_title" = "Pas<w>s</w>code";
+"passcode.check_email_message" = "Check your email for your passccode.";
+
+// Input validation
+
+"validation_error.bad_email" = "Invalid email";
+"validation_error.mandatory_field" = "This field is mandatory";
+
+// Menu
+
+"menu.screen_title" = "<w>Settings</w>";
+"menu.item.faq" = "Questions & answers";
+"menu.item.notifications" = "Notifications";
+"menu.item.terms" = "Terms and conditions";
+"menu.item.privacy_policy" = "Privacy policy";
+"menu.item.contact_us" = "Say Hello";
+"menu.item.send_feedback" = "Send feedback";
+"menu.action.sign_out" = "Sign out";
+
+"alert.sign_out.title" = "Are you sure you want to Sign out?";
+"alert.sign_out.confirm_action" = "Sign out";
+
+
+"menu.share_section.title" = "Know a <b>friend</b> who needs this?";
+"menu.share_section.message" = "We believe personal finance taught through
+shared experiences is the best way to start your journey to a kickass financial future. Why not invite a friend for the ride, too?";
+
+"notifications.screen_title" = "<w>Notifications</w>";
+"notifications.screen_subtitle" = "Set when we say Hello 👋";
+"notifications.daily" = "Daily video notifications";
+
+"faq.screen_title" = "<w>Questions &\naswers</w>";
+"faq.action.view_more" = "View more";
+
+"terms.screen_title" = "Terms and\nconditions";
+"privacy_policy.screen_title" = "Privacy\npolicy";
+
+// Say hello
+
+"say_hello.screen_title" = "<w>Hello 👋</w>";
+"say_hello.screen_subtitle" = "Tell us what you're thinking.";
+"say_hello.action.send" = "Send";
+"say_hello.message_placeholder" = "Type here…";
+"say_hello.message.completion" = "Your opinion is important. Thanks for reaching out!";
+
+// Feedback
+
+"feedback.screen_title" = "<w>Feedback</w>";
+"feedback.screen_subtitle" = "Tell us how we're doing 🤓";
+"feedback.action.send" = "Send";
+"feedback.rate_question" = "How would you rate?";
+"feedback.heading.reason" = "What can be better?";
+"feedback.heading.message" = "Say something more";
+"feedback.message.placeholder" = "Think we're doing a good job, or have ideas about how we can do better? Tell us about it here…";
+"feedback.option_picker.description" = "Pick something if match your experience best.";
+
+"feedback.low_rate_reason.poor_experience" = "Poor experience";
+"feedback.low_rate_reason.inappropriate_content" = "Inappropriate content";
+"feedback.low_rate_reason.content_issues" = "Content issues";
+"feedback.low_rate_reason.tech_issues" = "Technical issues";
+
+"feedback.mid_rate_reason.num_of_creators" = "Number of creators";
+"feedback.mid_rate_reason.better_content" = "Better content";
+"feedback.mid_rate_reason.better_experience" = "Better experience";
+"feedback.mid_rate_reason.more_videos" = "More videos";
+
+"feedback.high_rate_reason.user_experience" = "User experience";
+"feedback.high_rate_reason.content" = "Content";
+"feedback.high_rate_reason.idea" = "Idea";
+
+"feedback.low_rate.question" = "Share your experience with us";
+"feedback.mid_rate.question" = "What can be better?";
+"feedback.high_rate.question" = "What do you like?";
+
+"feedback.message.rating_required" = "Please rate us first";
+"feedback.message.completion" = "Thank you! We are constantly working on improving our service.";
+
+// Errors
+
+"error.response.401" = "Wrong passcode";
